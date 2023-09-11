@@ -6,5 +6,6 @@
 
 ##### Archivos para revisión
 Subcompetencias:
-  -SMA0104:
-    -/final/machine learning/
+  - SMA0102:/final/Estadistica
+  - SMA0104:/final/machine learning/Analisis desempeño de modelo con framework/Reporte_final_modelo_framework.ipynb
+  - SEG0403:/final/machine learning/Analisis del contexto y la normatividad (1).pdf
